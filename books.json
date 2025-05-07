@@ -1,0 +1,48 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Python 101",
+            "author": "John Doe",
+            "ratings": [
+                5,
+                4,
+                5
+            ],
+            "category": "Programming"
+        },
+        {
+            "id": 2,
+            "title": "Learn JavaScript",
+            "author": "Jane Smith",
+            "ratings": [
+                4,
+                5,
+                3
+            ],
+            "category": "Web Development"
+        },
+        {
+            "id": 3,
+            "title": "harry potter",
+            "author": "John Doe",
+            "ratings": [
+                3,
+                4,
+                3
+            ],
+            "category": "Other"
+        },
+        {
+            "id": 4,
+            "title": "Earth",
+            "author": "John Doe",
+            "ratings": [
+                3,
+                4,
+                3
+            ],
+            "category": "Other"
+        }
+    ]
+}
